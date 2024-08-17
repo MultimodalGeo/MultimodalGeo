@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meng
 - 👀 I’m interested in representation learning, multimodal learning, large language model, computer vision.
-- 🌱 I’m currently learning how to use multi-modal agent to help people build the city.
+- 🌱 I’m currently learning how to use multi-modal agent to help people in the urban field.
 - 💞️ I’m looking to collaborate on vision language model, large language model.
 
 
