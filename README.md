@@ -2,7 +2,7 @@
 - 👀 I’m interested in representation learning, multimodal learning, large language model, computer vision.
 - 🌱 I’m currently learning how to use multi-modal agent to help people in the urban field.
 - 💞️ I’m looking to collaborate on vision language model, large language model.
-
+- ⚡ Here is my recent ECCV 2024 paper: https://arxiv.org/abs/2311.12751
 
 <!---
 MultimodalGeo/MultimodalGeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
